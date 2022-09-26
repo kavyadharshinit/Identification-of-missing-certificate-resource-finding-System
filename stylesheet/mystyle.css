@@ -1,0 +1,15 @@
+body{
+background-color:#c1e0fb;
+}
+#total{
+width:900px;
+margin:0px auto;
+}
+input:focus,textarea:focus{
+	background-color:rgb(0,0,0);
+	color:#FFFFFF;
+}
+
+.textbx{
+	width:250px;
+}
